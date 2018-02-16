@@ -1,0 +1,65 @@
+body {
+    background: rgb(128, 128, 128);
+    color: #fff;
+}
+img{
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.header {
+
+    justify-content: space-between;
+}
+
+#logo-img {
+    min-width: 100px;
+    margin-bottom: 5px;
+
+}
+#header-break {
+    height: 3px;
+    border: none;
+    background: #900;
+}
+
+#title-text {
+    text-align: right;
+    align-self: flex-start;
+}
+#owner {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+}
+#entitle {
+    margin-top: 5px;
+    margin-bottom: 1px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+}
+#projects-head{
+    margin-left: 10%;
+}
+.project-img {
+    margin-right: 10px;
+    margin-left: 10px;
+    min-width: 200px;
+}
+#big-banner{
+    min-width: 300px;
+    min-height: 150px
+}
+
+.project-link{
+    text-align: center;
+}
+
+
+
