@@ -63,7 +63,8 @@ img {
     min-height: 150px;
 }
 
-.project-link {
+.project-name {
+    font-size: 20px;
     text-align: center;
 }
 
