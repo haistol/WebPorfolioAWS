@@ -2,6 +2,7 @@ body {
     background: rgb(128, 128, 128);
     color: #fff;
 }
+
 img {
     width: 100%;
 }
@@ -9,7 +10,7 @@ img {
 .container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; 
+    justify-content: center;
 }
 
 #header {
@@ -20,7 +21,6 @@ img {
 #logo-img {
     min-width: 100px;
     margin-bottom: 5px;
-
 }
 
 #header-break {
@@ -60,12 +60,15 @@ img {
 
 #big-banner {
     min-width: 300px;
-    min-height: 150px
+    min-height: 150px;
 }
 
-.project-link{
+.project-link {
     text-align: center;
 }
 
 
-
+#linkedin-button {
+    max-width: 200px;
+    min-width: 100px;
+}
