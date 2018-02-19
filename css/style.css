@@ -73,3 +73,7 @@ img {
     max-width: 200px;
     min-width: 100px;
 }
+
+.project-link {
+    text-align: center;
+}
