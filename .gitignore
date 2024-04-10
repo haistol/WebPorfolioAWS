@@ -1,0 +1,11 @@
+/.terraform.lock.hcl
+/.terraform.tfstate.lock.info
+/terraform.tfstate
+/terraform.tfstate.backup
+/.terraform/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/WebPortfolioAWS.iml
