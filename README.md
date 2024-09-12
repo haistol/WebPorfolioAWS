@@ -2,12 +2,12 @@
 My personal portfolio website hosted in AWS
 
 
-## Enviroment setup
+## Environment setup
 
 ### AWS
    - Set up an AWS account, here the AWS instruction: https://docs.aws.amazon.com/SetUp/latest/UserGuide/setup-prereqs-instructions.html
-   - Instal AWS CLI from: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
-   - create an IAM user and set the credential into your AWS CLI client: https://docs.aws.amazon.com/cli/latest/userguide/cli-authentication-user.html
+   - Install AWS CLI from: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+   - Create an IAM user and set the credential into your AWS CLI client: https://docs.aws.amazon.com/cli/latest/userguide/cli-authentication-user.html
 
 ``` 
 aws configure
